@@ -1,8 +1,1 @@
-
-body { font-family: Arial, sans-serif; margin: 0; background: #f3f3f3; color:#222; }
-header { background:#00b894; padding:20px; color:white; text-align:center; font-size:32px; font-weight:bold; }
-nav { background:#222; padding:10px; text-align:center; }
-nav a { color:white; margin:0 15px; font-weight:bold; text-decoration:none; }
-nav a:hover { text-decoration:underline; }
-section { padding:40px; max-width:900px; margin:auto; background:white; margin-top:20px; border-radius:12px; }
-h2 { color:#00b894; }
+body { font-family: Arial; }
